@@ -1,9 +1,12 @@
 package com.zjx.pojo;
 
 public class Student {
+	/** ÐòºÅ */
 	private int id;
 	
+	/** Ãû³Æ */
 	private String name;
+	
 
 	public int getId() {
 		return id;
