@@ -10,6 +10,9 @@ public class Student {
 	/** ÄêÁä */
 	private int age;
 	
+	/** ¼ÒÍ¥×¡Ö· */
+	private String address;
+	
 
 	public int getId() {
 		return id;
